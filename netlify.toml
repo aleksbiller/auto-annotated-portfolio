@@ -1,6 +1,10 @@
 [build]
   publish = ".next"
   command = "npm run build"
-
+[[redirects]]
+  from = "/*"
+  to = "https://vk.com/@billersoapfactory-library"
+  status = 301
+  force = true # Игнорировать существующие файлы/маршруты
 [[plugins]]
   package = "@netlify/plugin-nextjs"
