@@ -5,16 +5,7 @@ colors: colors-b
 sections:
   - type: TextSection
     title: ''
-    text: >
-      **Библиотека Биллера - Собрание книг по Мыловарению.**
-
-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: "**Библиотека Биллера - Собрание книг по Мыловарению.**\n\nСобрание редких и полезных книг по мыловарению и изготовлению натуральной щелочи из золы растений. Скачать книги и обсудить интересующие вас темы вы можете в Telegram группе Библиотеки Биллера:\_[https://t.me/BillerSoap](https://vk.com/away.php?to=https%3A%2F%2Ft.me%2FBillerSoap\\&cc_key=)\_Если у вас имеются интересные книги, отсутствующие в каталоге, то обязательно присылайте их в Telegram группу, добавлю их в Библиотеку.\n\n\n\n\n"
     colors: colors-f
     variant: variant-a
     elementId: ''
