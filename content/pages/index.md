@@ -4,7 +4,7 @@ title: Home
 colors: colors-b
 sections:
   - type: TextSection
-    title: Библиотека Биллера - Собрание книг по Мыловарению.
+    title: ''
     text: >
       **Библиотека Биллера - Собрание книг по Мыловарению.**
 
