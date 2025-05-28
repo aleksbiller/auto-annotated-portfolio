@@ -4,7 +4,7 @@ title: Home
 colors: colors-b
 sections:
   - type: TextSection
-    title: Библиотека Биллера - Собрание книг по Мыловарению.
+    title: ''
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
