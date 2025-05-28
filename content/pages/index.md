@@ -8,9 +8,11 @@ sections:
     backgroundSize: full
     title: Библиотека Биллера - Собрание книг по Мыловарению.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Собрание редких и полезных книг по мыловарению и изготовлению натуральной
+      щелочи из золы растений. Скачать книги и обсудить интересующие вас темы вы
+      можете в Telegram группе Библиотеки Биллера: https://t.me/BillerSoap Если
+      у вас имеются интересные книги, отсутствующие в каталоге, то обязательно
+      присылайте их в Telegram группу, добавлю их в Библиотеку.
     styles:
       self:
         height: auto
